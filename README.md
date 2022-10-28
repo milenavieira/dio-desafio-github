@@ -1,4 +1,4 @@
-# dio-desafio-github
-Desafio de Projeto sobre Git/GitHub
+# dio-desafio-github-banco
+Desafio sobre Git/GitHub: Comitar um exercício.
 
-Aproveitei a necessidade de realizar o desafio de Git/GitHub do Bootcamp GFT Start Woman Java para comitar um exercício que fiz sobre encapsulamento, deixei vários comentários explicando o código. 
+Aproveitei para comitar um exercício de acesso a dados bancários (encapsulamento), deixei vários comentários explicando o código. 
